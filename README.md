@@ -1,4 +1,4 @@
-# Awesome Artifical Intelligence for Electronic Design Automation
+# Awesome Artificial Intelligence for Electronic Design Automation
 
 We would like to maintain a list of resources that utilize artificial intelligence to solve Electronic Design Automation (EDA) problems.
 
