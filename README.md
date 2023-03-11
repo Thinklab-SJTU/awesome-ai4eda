@@ -4,7 +4,7 @@ We would like to maintain a list of resources that utilize artificial intelligen
 
 We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ✨.
 
-*Maintained by members in SJTU-Thinklab: Xingbo Du, Ruoyu Cheng, Ruizhe Zhong, Peiyu Wang, Jianyong Yuan* 
+*Maintained by members in SJTU-Thinklab: Xingbo Du, Ruoyu Cheng, Ruizhe Zhong, Peiyu Wang, Jianyong Yuan, Chonghua Wang* 
 
 ## [Content](#content)
 
@@ -96,6 +96,18 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ✨.
 2. ✨**The Policy-gradient Placement and Generative Routing Neural Networks for Chip Design**, NeurIPS, 22. [paper](https://openreview.net/pdf?id=uNYqDfPEDD8), [code](https://github.com/Thinklab-SJTU/EDA-AI/tree/main/PRNet)
 
     *Ruoyu Cheng, Xianglong Lyu, Yang Li, Junjie Ye, Jianye HAO, Junchi Yan*
+    
+3. **A Deep Reinforcement Learning Approach for Global Routing**. Journal of Mechanical Design, 19. [paper](https://arxiv.org/pdf/1906.08809.pdf)
+
+    *Haiguang Liao, Wentai Zhang, Xuliang Dong, Barnabas Poczos, Kenji Shimada, Levent Burak Kara*
+    
+4. **A Nesterov’s accelerated quasi-Newton method for global routing using deep reinforcement learning**. NOLTA, 21. [paper](https://arxiv.org/pdf/2010.09465.pdf)
+
+    *S. Indrapriyadarsini, Shahrzad Mahboubi, Hiroshi Ninomiya, Takeshi Kamio, Hideki Asai*
+    
+5. **Late Breaking Results: A Neural Network that Routes ICs**. DAC, 20. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9218598)
+
+    *Dmitry Utyamishev, Inna Partin-Vaisband*
 
 ### [Logic Synthesis: Operator Sequence Scheduling](#content)
 
