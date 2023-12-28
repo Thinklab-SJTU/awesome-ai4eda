@@ -4,6 +4,8 @@ We would like to maintain a list of resources that utilize artificial intelligen
 
 We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ✨.
 
+Also see our maintaining list for [LLM4EDA: Emerging Advancement in Large Language Models for Electronic Design Automation](https://github.com/Thinklab-SJTU/Awesome-LLM4EDA).
+
 *Maintained by members in SJTU-Thinklab: Xingbo Du, Ruoyu Cheng, Ruizhe Zhong, Peiyu Wang, Jianyong Yuan, Chonghua Wang* 
 
 ## [Content](#content)
